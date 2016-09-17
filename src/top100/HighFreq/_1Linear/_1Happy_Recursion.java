@@ -1,4 +1,4 @@
-package top100.LiveCoding._1Linear;
+package top100.HighFreq._1Linear;
 
 import java.io.File;
 import java.io.FileNotFoundException;

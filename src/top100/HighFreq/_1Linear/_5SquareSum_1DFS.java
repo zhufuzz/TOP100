@@ -17,7 +17,7 @@ class Simple{
 	}
 }
 
-public class _5SquareSum {
+public class _5SquareSum_1DFS {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner in = new Scanner(new File("input.txt"));
 		Simple solution = new Simple();

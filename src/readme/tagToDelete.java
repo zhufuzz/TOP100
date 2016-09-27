@@ -18,3 +18,4 @@
 
 &gt   change it to  >
 &lt;  change it to  <
+&amp;  change it to &
